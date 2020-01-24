@@ -1,0 +1,8 @@
+{
+  "name": "BD Class Name Normalizer",
+  "version": "1.0.0",
+  "description": "Normalize Discord random class names to .bd- static classes. Based on the old Powercord class normalizer.",
+  "author": "Powercord Team & BBD Developers",
+  "license": "MIT",
+  "appMode": "both"
+}
